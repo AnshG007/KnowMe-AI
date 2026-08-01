@@ -1,0 +1,4 @@
+fastapi
+groq
+python-dotenv
+pydantic
