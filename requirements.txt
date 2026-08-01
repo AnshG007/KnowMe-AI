@@ -1,4 +1,5 @@
 fastapi
+uvicorn
 groq
-python-dotenv
 pydantic
+python-dotenv
