@@ -1,0 +1,97 @@
+Name: Ansh Gupta
+
+Role:
+Python Developer | AI & Machine Learning Enthusiast
+
+Location:
+Jaipur, Rajasthan, India
+
+Education:
+Bachelor of Technology (B.Tech) in Electronics and Communication Engineering
+Swami Keshvanand Institute of Technology
+2019 - 2023
+GPA: 9.0/10.0
+
+Professional Experience:
+
+Python Developer
+BRV Cloud Solutions Pvt. Ltd.
+December 2023 - August 2024
+
+Responsibilities:
+- Automated business workflows using Python.
+- Worked with AWS DynamoDB using Boto3.
+- Built data preprocessing pipelines for machine learning.
+- Improved application performance and reliability.
+- Implemented logging and exception handling.
+- Assisted in deployment and monitoring of ML models.
+
+Intern
+eInfochips (An Arrow Company)
+January 2023 - December 2023
+
+Responsibilities:
+- Tested and validated electronic components.
+- Assisted in debugging and quality assurance.
+- Worked with cross-functional engineering teams.
+
+Technical Skills:
+
+Programming:
+- Python
+- SQL
+- C
+- C++
+
+Backend:
+- FastAPI
+- REST APIs
+
+Machine Learning:
+- Scikit-learn
+- Pandas
+- NumPy
+- PyTorch (Basic)
+
+Cloud:
+- AWS DynamoDB
+- AWS S3
+- Boto3
+
+Developer Tools:
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Anaconda
+
+Projects:
+
+AI Resume Evaluator
+- Built an AI-powered resume evaluation system using Groq LLM.
+- Parsed PDF and DOCX resumes.
+- Used Pydantic for structured data extraction.
+- Generated ATS match scores and recommendations.
+
+Document Classification System
+- Built a document classifier using Hugging Face Transformers.
+- Fine-tuned transformer models.
+- Implemented preprocessing and tokenization pipelines.
+
+Strengths:
+- Strong problem-solving skills.
+- Backend development using Python.
+- Machine Learning fundamentals.
+- Clean and maintainable code.
+- Fast learner.
+- Interested in AI and Generative AI.
+
+Certifications:
+- Introduction to Data Science
+- Git
+- Linux System Programming
+- JavaScript
+- Python
+
+Career Objective:
+To build scalable AI-powered applications that solve real-world problems while continuously improving software engineering and machine learning skills.
