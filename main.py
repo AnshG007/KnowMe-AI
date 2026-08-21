@@ -129,7 +129,7 @@ if not my_api_key:
     raise ValueError("Api key not found in .env file.")
 
 client = Groq(api_key=my_api_key)
-model = 'GPT OSS 120B'
+model = 'Qwen/Qwen3.6-27B'
 
 # Read profile.txt safely
 if PROFILE_PATH.exists():
